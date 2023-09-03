@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## ui screenshots : 
+## ui of this app: 
 ![Screenshot (77)](https://github.com/Vinay1356/Temperature_converter/assets/101415489/a006d360-a01d-4109-98b0-cb8bdfd9436b)
 
 ![Screenshot (78)](https://github.com/Vinay1356/Temperature_converter/assets/101415489/1327aa06-d99a-4d48-a1be-a4e7c6340edd)
